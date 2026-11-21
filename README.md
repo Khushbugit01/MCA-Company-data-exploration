@@ -71,6 +71,22 @@ The SQL script covers the following analytical areas:
 
 **SQL Script:** [MCA Company Data Exploration](MCA_Company_Data_Exploration.sql)
 
+## Key Findings
+
+The analysis of 500 company records revealed the following patterns:
+
+- **Company Status:** 346 companies 69.2% are classified as Active, while 138 companies 27.6% are classified as Strike Off.
+- **Company Classification:** 498 records belong to companies limited by shares, making this the dominant category within the dataset.
+- **Company Subcategory:** 495 companies are classified as non-government companies, while 5 are subsidiaries of companies incorporated outside India.
+- **Capital Analysis:** The dataset contains approximately ₹855.61 crore in total authorized capital and ₹610.46 crore in total paid-up capital.
+- **Active Companies:** Active companies account for approximately ₹578.32 crore in total paid-up capital.
+- **Capital Distribution:** Paid-up capital varies considerably across companies, with a small number of companies accounting for substantial capital values.
+- **Highest Paid-up Capital:** Archroma International (India) Private Limited recorded the highest paid-up capital in the dataset, followed by Safari Manufacturing Limited.
+
+### Conclusion
+
+This project demonstrates the use of SQL to explore company data, evaluate company status distributions, compare business classifications, analyze capital structures, and extract meaningful insights using aggregation, filtering, sorting, and subqueries. The analysis highlights how structured querying can support data exploration and business-oriented reporting.
+
 
 
 
