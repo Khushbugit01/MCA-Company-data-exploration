@@ -69,7 +69,7 @@ The SQL script covers the following analytical areas:
 - Ranking and sorting using `ORDER BY`
 - Subquery-based comparisons against overall averages
 
-**SQL Script:** [MCA Company Data Exploration](MCA_Company_Data_Exploration.sql)
+**SQL Script:** [MCA Company Data Exploration](sql/MCA_Company_Data_Exploration.sql)
 
 ## Key Findings
 
