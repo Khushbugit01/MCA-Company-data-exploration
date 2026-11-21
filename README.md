@@ -41,6 +41,15 @@ The analysis uses SQL queries to investigate company distributions, compare capi
 - NIC Code
 - Company Classification
 
+## Data Source
+
+The dataset was obtained from the Open Government Data (OGD) Platform India, published by the Ministry of Corporate Affairs (MCA), Government of India.
+
+- **Dataset:** Company Master Data
+- **Publisher:** Ministry of Corporate Affairs, Government of India
+- **Source:** https://data.gov.in/catalog/company-master-data
+- **Records used:** 500 company records
+
 ## Tools & Technologies
 
 - MySQL
