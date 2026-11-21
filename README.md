@@ -50,12 +50,6 @@ The dataset was obtained from the Open Government Data (OGD) Platform India, pub
 - **Source:** https://data.gov.in/catalog/company-master-data
 - **Records used:** 500 company records
 
-## Tools & Technologies
-
-- MySQL
-- MySQL Workbench
-- SQL
-
 ## SQL Analysis
 
 The SQL script covers the following analytical areas:
