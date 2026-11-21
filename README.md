@@ -56,9 +56,20 @@ The dataset was obtained from the Open Government Data (OGD) Platform India, pub
 - MySQL Workbench
 - SQL
 
-## SQL Analysis Scope
+## SQL Analysis
 
-The analysis covers data exploration, conditional filtering, aggregation, category-level comparisons, capital analysis, sorting, and subquery-based comparisons.
+The SQL script covers the following analytical areas:
+
+- Company record exploration and status analysis
+- Filtering and conditional analysis
+- Aggregate functions and summary statistics
+- Capital structure analysis
+- Company category and subcategory comparisons
+- Grouped analysis using `GROUP BY` and `HAVING`
+- Ranking and sorting using `ORDER BY`
+- Subquery-based comparisons against overall averages
+
+**SQL Script:** [MCA Company Data Exploration](MCA_Company_Data_Exploration.sql)
 
 
 
