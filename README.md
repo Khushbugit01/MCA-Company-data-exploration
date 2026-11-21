@@ -3,7 +3,6 @@
 ## Project Overview
 
 This project explores a dataset of 500 company records using MySQL to examine corporate classifications, company status, and capital-related attributes.
-
 The analysis uses SQL queries to investigate company distributions, compare capital measures across categories, identify companies meeting specified conditions, and examine patterns within the selected dataset.
 
 ## Analytical Objectives
