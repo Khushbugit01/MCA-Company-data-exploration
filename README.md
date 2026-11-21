@@ -1,2 +1,56 @@
-# MCA-Company-data-exploration
-SQL driven exploratory analysis of corporate registration data, investigating company classifications, capital structure, registration patterns and corporate status using MySQL. 
+# MCA Company Data Exploration
+
+## Project Overview
+
+This project explores a dataset of 500 company records using MySQL to examine corporate classifications, company status, and capital-related attributes.
+
+The analysis uses SQL queries to investigate company distributions, compare capital measures across categories, identify companies meeting specified conditions, and examine patterns within the selected dataset.
+
+## Analytical Objectives
+
+- Examine the distribution of companies across corporate categories, subcategories, and statuses.
+- Analyze authorized and paid-up capital at company and category levels.
+- Compare authorized capital with paid-up capital.
+- Identify companies with capital values exceeding specified thresholds and dataset averages.
+- Explore aggregate capital measures across company classifications.
+- Investigate company rankings and category-level comparisons.
+
+## Dataset Overview
+
+| Attribute | Description |
+|---|---|
+| Dataset | MCA Company Data |
+| Records | 500 company records |
+| Database Table | `company_data_500` |
+| Data Type | Corporate registration and capital information |
+
+### Key Attributes
+
+- CIN
+- Company Name
+- Company Registration Office Code
+- Company Category
+- Company Subcategory
+- Company Class
+- Authorized Capital
+- Paid-up Capital
+- Company Registration Date
+- Listing Status
+- Company Status
+- Company Origin
+- NIC Code
+- Company Classification
+
+## Tools & Technologies
+
+- MySQL
+- MySQL Workbench
+- SQL
+
+## SQL Analysis Scope
+
+The analysis covers data exploration, conditional filtering, aggregation, category-level comparisons, capital analysis, sorting, and subquery-based comparisons.
+
+
+
+
