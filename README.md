@@ -83,6 +83,16 @@ The analysis of 500 company records revealed the following patterns:
 - **Capital Distribution:** Paid-up capital varies considerably across companies, with a small number of companies accounting for substantial capital values.
 - **Highest Paid-up Capital:** Archroma International (India) Private Limited recorded the highest paid-up capital in the dataset, followed by Safari Manufacturing Limited.
 
+## Analysis Results
+
+The query outputs are available in the [`results`](results/) directory:
+
+- [Company Status Distribution](results/company_status_distribution.csv)
+- [Company Category Distribution](results/company_category_distribution.csv)
+- [Company Subcategory Distribution](results/company_subcategory_distribution.csv)
+- [Capital Summary](results/capital_summary.csv)
+- [Top Paid-up Capital Companies](results/top_paidup_capital_companies.csv)
+
 ### Conclusion
 
 This project demonstrates the use of SQL to explore company data, evaluate company status distributions, compare business classifications, analyze capital structures, and extract meaningful insights using aggregation, filtering, sorting, and subqueries. The analysis highlights how structured querying can support data exploration and business-oriented reporting.
